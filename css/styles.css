@@ -1,0 +1,18 @@
+/* CSS HEX */
+/* --pale-spring-bud: #edeec0ff;
+--blue-gray: #6c91bfff;
+--antique-brass: #ca907eff;
+--black-coffee: #3c3744ff;
+--dark-liver: #615055ff; */
+
+nav {
+    background-color: #6c91bfff;
+}
+.card   {
+    margin: 0;
+}
+
+.card img {
+    max-height: 232.177px;
+}
+
